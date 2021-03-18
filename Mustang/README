@@ -3,7 +3,4 @@ FireOS version 6.3.1.5 US-WEST
 
 All domains were collected by passively observing domain requests.
 These domains could differ based upon OS version, region, or various other factors.
-Blocking via IP will not work as DDNS abstract the domain over moving public IPs.
-
-
 
