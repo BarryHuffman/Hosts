@@ -1,0 +1,17 @@
+#############################################################################################
+# Amazon Domain Blacklist (Mustang)
+# Thu Mar 18 03:13:16 PM UTC 2021
+# https://github.com/BarryHuffman/Hosts/new/master/Mustang
+#############################################################################################
+
+arcus-uswest.amazon
+#443
+spectrum.s3.amazon.com
+#80
+d2abyzulu8pmq6.cloudfront.net
+#80
+d1s31zyz7dcc2d.cloudfront.net
+amzdigital-a.akamaihd.net
+amzdigitaldownloads.edgesuite.net
+softwareupdates.amazon.com
+updates.amazon.com
