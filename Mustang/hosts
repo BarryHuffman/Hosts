@@ -3,6 +3,10 @@
 # Thu Mar 18 03:13:16 PM UTC 2021
 # https://github.com/BarryHuffman/Hosts/new/master/Mustang
 #############################################################################################
+# If you don't have root/magisk support allowing system Hosts modification use your router.
+# The downside is you won't have protection in public places.
+# Verify your router supports blocking TLS/SSL traffic. (HTTPS port:443)
+# Potentially a local VPN + DNS proxy as a non-root alternative.
 
 arcus-uswest.amazon
 #443
